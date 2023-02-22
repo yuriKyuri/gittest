@@ -6,5 +6,6 @@ public class test01 {
         System.out.println("第二次helloworld");
         System.out.println("hot-fix第一次helloworld");
         System.out.println("master的合并冲突");
+        System.out.println("hot-fix的合并冲突01");
     }
 }
